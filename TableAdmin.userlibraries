@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jackcess-3.0.1">
+    <archive path="C:/Users/ukeru/IdeaProjects/TableAdmin/jackcess-3.0.1.jar" />
+    <archive path="C:/Users/ukeru/IdeaProjects/TableAdmin/hsqldb-2.5.0.jar" />
+    <archive path="C:/Users/ukeru/IdeaProjects/TableAdmin/commons-logging-1.2.jar" />
+    <archive path="C:/Users/ukeru/IdeaProjects/TableAdmin/commons-lang3-3.8.1.jar" />
+  </library>
+  <library name="ucanaccess-5.0.1">
+    <archive path="C:/Users/ukeru/IdeaProjects/TableAdmin/ucanaccess-5.0.1.jar" />
+  </library>
+</eclipse-userlibraries>
+

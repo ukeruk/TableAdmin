@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TableAdmin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TableAdmin_jar</output-path>
+    <root id="archive" name="TableAdmin.jar">
+      <element id="module-output" name="TableAdmin" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,134 @@
+
+…
+java:S1319Û"nThe type of the "alc" object should be an interface such as "List" rather than the implementation "ArrayList".(¡í¶ï
+j
+java:S2095–"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(çãÈùÿÿÿÿ
+l
+java:S2095û"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(Ÿø´ÿÿÿÿÿ
+j
+java:S2095ú"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(çãÈùÿÿÿÿ
+k
+java:S2095«"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ
+l
+java:S2095—"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(Ÿø´ÿÿÿÿÿ
+i
+java:S2095ª"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ
+a
+java:S1192V"KDefine a constant instead of duplicating this literal "/Documents" 3 times.(ÌÖ™­
+`
+java:S1192V"JDefine a constant instead of duplicating this literal "user.home" 3 times.(ÌÖ™­
+l
+java:S1192W"QDefine a constant instead of duplicating this literal "/TableAdminSaves" 3 times.(“ªÕ–ùÿÿÿÿ
+
+java:S1192ð"wDefine a constant instead of duplicating this literal "Error: Couldn't save to file. Are any users connected?" 4 times.(Ð’
+I
+java:S1199®"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Z
+java:S1155À">Use isEmpty() to check whether the collection is empty or not.(«¸œýÿÿÿÿ
+Z
+java:S1155Ø">Use isEmpty() to check whether the collection is empty or not.(Ðú±îýÿÿÿÿ
+Z
+java:S1155Ú">Use isEmpty() to check whether the collection is empty or not.(«¸œýÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+O
+java:S4973~"9Use the "equals" method if value comparison was intended.(É³¸è
+P
+java:S4973‹"9Use the "equals" method if value comparison was intended.(üäÀû
+I
+java:S1948".Make "serverSocket" transient or serializable.(“—Ó¿ýÿÿÿÿ
+>
+java:S1948"(Make "socket" transient or serializable.( ¡² 
+?
+java:S1948")Make "clients" transient or serializable.(–ûÞè
+I
+java:S1948,".Make "chosenImages" transient or serializable.(ô¦¹ˆÿÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(ó¨Øæ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¢ãòª
+9
+java:S30106"#Remove this assignment of "layers".(õ§–¤
+<
+java:S3010g"'Remove this assignment of "isLoadSave".(¨­ß3
+D
+java:S6212:"/Declare this local variable with "var" instead.(æóà
+E
+java:S6212;"/Declare this local variable with "var" instead.(‘†â›
+D
+java:S6212A"/Declare this local variable with "var" instead.(£ÎÂF
+J
+java:S6212D"/Declare this local variable with "var" instead.(‰˜†Öüÿÿÿÿ
+E
+java:S6212G"/Declare this local variable with "var" instead.(ÉÖ“
+d
+java:S3252P"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ
+J
+java:S6212W"/Declare this local variable with "var" instead.(“ªÕ–ùÿÿÿÿ
+E
+java:S6212\"/Declare this local variable with "var" instead.(ÊòÚ 
+M
+java:S1135k"2Complete the task associated to this TODO comment.(ôâ ýÿÿÿÿ
+E
+java:S6212w"/Declare this local variable with "var" instead.(æÕ¿¼
+E
+java:S6212|"/Declare this local variable with "var" instead.(ñÄ€×
+M
+java:S1135{"2Complete the task associated to this TODO comment.(ùå¯¶ÿÿÿÿÿ
+N	java:S106‡"9Replace this use of System.out or System.err by a logger.(¾õöo
+K
+java:S6212Š"/Declare this local variable with "var" instead.(Ú‹±ÿÿÿÿÿ
+I
+java:S1135‘"2Complete the task associated to this TODO comment.(¾ºŠæ
+I
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(¶Ö°€
+K
+java:S6212¥"/Declare this local variable with "var" instead.(»‰éÑýÿÿÿÿ
+\
+java:S2147Ì"ECombine this catch with the one at line 202, which has the same body.(ýàÑÎ
+\
+java:S2147æ"ECombine this catch with the one at line 228, which has the same body.(ýàÑÎ
+K
+java:S6212ð"/Declare this local variable with "var" instead.(“ªÕ–ùÿÿÿÿ
+K
+java:S6212ó"/Declare this local variable with "var" instead.(šüñÔøÿÿÿÿ
+F
+java:S6212ô"/Declare this local variable with "var" instead.(ÑÌ²–
+\
+java:S2147„"ECombine this catch with the one at line 258, which has the same body.(ï­£Ä
+K
+java:S6212ú"/Declare this local variable with "var" instead.(çãÈùÿÿÿÿ
+K
+java:S6212û"/Declare this local variable with "var" instead.(Ÿø´ÿÿÿÿÿ
+K
+java:S6212Œ"/Declare this local variable with "var" instead.(“ªÕ–ùÿÿÿÿ
+K
+java:S6212”"/Declare this local variable with "var" instead.(ÁæšÆøÿÿÿÿ
+\
+java:S2147 "ECombine this catch with the one at line 286, which has the same body.(ï­£Ä
+K
+java:S6212–"/Declare this local variable with "var" instead.(çãÈùÿÿÿÿ
+K
+java:S6212—"/Declare this local variable with "var" instead.(Ÿø´ÿÿÿÿÿ
+\
+java:S2147²"ECombine this catch with the one at line 303, which has the same body.(ï­£Ä
+\
+java:S2147µ"ECombine this catch with the one at line 303, which has the same body.(ýàÑÎ
+K
+java:S6212ª"/Declare this local variable with "var" instead.(¾¡½ßÿÿÿÿÿ
+K
+java:S6212«"/Declare this local variable with "var" instead.(ÑÒ»¥øÿÿÿÿ
+N	java:S106®"9Replace this use of System.out or System.err by a logger.(ùø¼
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(¹§Ž©
+O	java:S106³"9Replace this use of System.out or System.err by a logger.(¹§Ž©
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(¹§Ž©
+E
+java:S6212Ê"/Declare this local variable with "var" instead.(›À‡{
+F
+java:S6212Í"/Declare this local variable with "var" instead.(ÛÂÚ‰
+T	java:S106Ð"9Replace this use of System.out or System.err by a logger.(ã©…£ÿÿÿÿÿ
+O	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(±Ð§Æ
+R
+java:S2696„"6Make the enclosing method "static" or remove this set.(þŽ£þÿÿÿÿ
+C
+java:S1481\"-Remove this unused "clientNo" local variable.(ÊòÚ 
